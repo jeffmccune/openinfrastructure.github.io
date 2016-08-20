@@ -1,0 +1,12 @@
+---
+layout: page
+title: "News and Updates"
+description: "Things we're working on"
+header-img: img/about-bg.jpg
+author: jeff
+---
+
+{% for post in paginator.posts %}
+{% include post_detail.html %}
+<hr>
+{% endfor %}

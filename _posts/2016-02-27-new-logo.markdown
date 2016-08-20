@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Logo"
-author: "Jeff McCune"
+author: jeff
 date:   2016-02-27 17:53:00
 categories: update company
 ---
